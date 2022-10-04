@@ -1,0 +1,63 @@
+body{
+  background-color:#850E35;
+  margin:0;
+}
+li{
+  font-family: 'Cookie';
+  font-size: 50px;
+  margin: 20px;
+}
+h1{
+  text-align: center;
+  font-family: 'Rancho';
+  font-size: 60px;
+
+}
+img{
+  display: inline-block;
+  width:321px;
+  height:500px;
+
+}
+p{
+  font-family: 'Poppins';
+  font-size: 20px;
+}
+.perfect{
+  width:300px;
+}
+
+
+.main{
+  text-align: center;
+  font-family: 'Pacifico';
+  font-size:70px;
+  color:#850E35;
+  background-color: #FFC4C4;
+  margin:0;
+  padding: 100px 0 100px 0;
+}
+
+.read-books{
+
+  background-color: #FFECEF;
+  margin:40px 200px 40px 200px;
+  padding:50px;
+}
+.bucket-list{
+
+  background-color: #FFECEF;
+  margin:40px 200px 40px 200px;
+  padding:50px;
+
+
+}
+.book-series{
+  background-color:#FFECEF;
+  margin:40px 200px 40px 200px;
+  padding:50px;
+}
+.bottom-container{
+  background-color:#850E35;
+  padding: 50px 0 20px;
+}
